@@ -1,4 +1,4 @@
-# Headphone Sound Monitor
+# Headphone Connection Keep Alive Script 
 
 A small Python script that keeps your headphones from disconnecting by playing a near-inaudible sound whenever they're connected.
 
